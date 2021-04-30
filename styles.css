@@ -31,11 +31,11 @@
 }
 .responsive .container{
     
-    max-width: 1024px;
+    
     margin: 0 auto;
     display: inline-block;
-    width: 95%;
-    box-sizing: border-box;
+  
+   
 }
 /* .responsive .collapsable-content{
     margin-top: 15px;
@@ -43,9 +43,9 @@
     position: relative;
     
 } */
-.responsive .container .left p{
+.responsive  .left p{
     
-   font-size: 1.125em;;
+   font-size: 19px;;
    color: #757575;
    font-weight: 400;
     padding: 0;
@@ -58,21 +58,21 @@
    color: #333;
    font-weight: 700;
     padding: 0;
-    margin-top: 15px;
-    margin-bottom: 10px;
+    
+    
     text-overflow: ellipsis;
 }
 #password{
    font-size: 19px;
    color: #757575;
    
-    margin-bottom: 10px;
+    
     
 }
 #phone{
    font-size: 19px;
    color: #757575;
-    margin-bottom: 10px;   
+      
 }
 
 .responsive .account-link{
@@ -99,8 +99,4 @@
     font-size: 19px;
     color: #333;
      margin-bottom: 10px;   
- }
-
- .container  .down-middle{
-     
  }
